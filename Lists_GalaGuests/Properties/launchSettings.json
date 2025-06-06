@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lists_GalaGuests": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
